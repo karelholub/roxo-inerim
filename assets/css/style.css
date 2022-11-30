@@ -104,19 +104,19 @@ h6 {
 }
 
 .btn-primary {
-  background: #EAA4A4;
+  background: #E14D2A;
   color: #fff;
 }
 .btn-primary:hover {
-  background: #e07b7b;
+  background: #FD841F;
 }
 
 .btn-secondary {
-  background: #ADD6D2;
+  background: #3E6D9C;
   color: #fff;
 }
 .btn-secondary:hover {
-  background: #8bc5bf;
+  background: #001253;
 }
 
 body {
@@ -153,10 +153,11 @@ body {
   margin-bottom: 30px;
   padding: 0 0 10px 0;
   border-width: 0 0 1px 0;
-  border-color: #EAA4A4;
+  border-color: #E14D2A;
   font-weight: 300;
   letter-spacing: 1px;
   -webkit-appearance: none;
+  appearance: none;
   height: 42px;
 }
 .form-control:focus {
@@ -234,7 +235,7 @@ textarea.form-control {
   position: relative;
 }
 .site-navigation .nav-item .nav-link:hover {
-  color: #EAA4A4;
+  color: #E14D2A;
 }
 .site-navigation .nav-item:last-child {
   margin-left: 15px;
@@ -247,7 +248,7 @@ textarea.form-control {
   height: 2px;
   width: 25px;
   transition: all 0.2s;
-  background: #EAA4A4;
+  background: #E14D2A;
   display: block;
 }
 .site-navigation .navbar-toggler .icon-bar:not(:last-child) {
@@ -288,7 +289,7 @@ textarea.form-control {
 .site-hero {
   position: relative;
   height: 100vh;
-  background-image: url("../images/backgrounds/hero-background.jpg");
+  /* background-image: url("../images/backgrounds/xicht.jpeg");*/
   background-size: cover;
   background-position: center center;
   display: flex;
@@ -355,7 +356,7 @@ textarea.form-control {
 .site-counter {
   padding: 85px 0;
   color: #fff;
-  background: #ADD6D2;
+  background: #3E6D9C;
 }
 .site-counter .section-title {
   margin-bottom: 40px;
@@ -410,7 +411,7 @@ textarea.form-control {
 }
 .site-project-item-content span, .site-blog-post-content span {
   font-family: "Montserrat", sans-serif;
-  color: #EAA4A4;
+  color: #E14D2A;
   display: block;
   margin-bottom: 10px;
 }
@@ -450,21 +451,21 @@ textarea.form-control {
   font-family: "Montserrat", sans-serif;
   font-size: 18px;
   font-weight: 500;
-  color: #EAA4A4;
+  color: #E14D2A;
 }
 .site-project-cta::before {
   content: "";
   position: absolute;
   height: 2px;
   width: 100%;
-  background: #EAA4A4;
+  background: #E14D2A;
   bottom: -2px;
   transition: transform 0.3s cubic-bezier(0.36, 0.03, 0, 0.91);
   transform-origin: right;
   transform: scaleX(0);
 }
 .site-project-cta:hover {
-  color: #EAA4A4;
+  color: #E14D2A;
   text-decoration: none;
 }
 .site-project-cta:hover::before {
@@ -484,7 +485,7 @@ textarea.form-control {
   font-size: 55px;
 }
 .site-project-header-content h1 span {
-  color: #EAA4A4;
+  color: #E14D2A;
 }
 @media (max-width: 767px) {
   .site-project-header-content h1 {
@@ -540,7 +541,7 @@ textarea.form-control {
   transition: all 0.3s ease;
 }
 .site-project-pagination .pagination .page-item.active .page-link, .site-blog-pagination .pagination .page-item.active .page-link {
-  background-color: #EAA4A4;
+  background-color: #E14D2A;
   color: #fff;
 }
 .site-project-single-section {
@@ -685,7 +686,7 @@ textarea.form-control {
   transition: 0.3s ease;
 }
 .site-blog-post-content h3 a:hover {
-  color: #EAA4A4;
+  color: #E14D2A;
   text-decoration: none;
 }
 @media (max-width: 575px) {
@@ -694,7 +695,7 @@ textarea.form-control {
   }
 }
 .site-blog-post-content a {
-  color: #EAA4A4;
+  color: #E14D2A;
   letter-spacing: 2px;
 }
 @media (max-width: 575px) {
@@ -844,7 +845,7 @@ textarea.form-control {
   flex-wrap: wrap;
 }
 .site-about-company {
-  background: #EAA4A4;
+  background: #E14D2A;
   width: 40%;
   padding: 70px 38px;
 }
@@ -965,7 +966,7 @@ textarea.form-control {
 }
 .site-team-member-content h3 {
   font-size: 20px;
-  color: #EAA4A4;
+  color: #E14D2A;
   margin-bottom: 10px;
   font-weight: 500;
 }
@@ -1007,7 +1008,7 @@ textarea.form-control {
   }
 }
 .site-contact-title span {
-  color: #EAA4A4;
+  color: #E14D2A;
 }
 .site-contact-form {
   margin-top: 20px;
@@ -1030,7 +1031,7 @@ textarea.form-control {
 }
 
 .site-footer {
-  background: #ADD6D2;
+  background: #3E6D9C;
   padding: 100px 0;
 }
 .site-footer-logo {

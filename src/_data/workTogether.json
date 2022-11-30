@@ -1,11 +1,11 @@
 {
-  "heading":"LET’S WORK TOGETHER",
+  "heading":"Z NÁPADŮ ZADÁNÍ A ZE ZADÁNÍ VÝSLEDKY",
   "submitBtn":{
-    "btnText":"Submit Query",
+    "btnText":"Ozvěte se",
     "btnLink":"contact"
   },
   "convBtn":{
-    "btnText":"Not Convinced",
+    "btnText":"Více info",
     "btnLink":"portfolio"
   }
 }

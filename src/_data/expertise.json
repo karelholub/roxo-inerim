@@ -1,14 +1,11 @@
 {
-  "title":"Expertise",
+  "title":"Co umím",
   "expertIn": 
-  ["Customer Experience Design",
-    "Digital Products",
-    "Development",
-    "Campaign & Content",
-    "Employer Branding",
-    "Animation & Motion Graphics",
-    "Packaging & Product Design",
-    "Retail & Spacial",
-    "Print & Editorial DesignPrint & Editorial Design",
-    "Concept/Text","Information Design"]
+  ["Uživatelsky zaměřený design",
+    "Sběr a rozvoj požadavků",
+    "Analýza a zadání pro dodavatele",
+    "Posouzení řešení a rozpočtů",
+    "Projektový dozor",
+    "Testování a akceptace"
+]
 }

@@ -5,4 +5,4 @@ pagination:
   size: 3
   alias: portfolios
 ---
-# We build better <span>products</span> to help our clients build better <span>companies</span>
+# Stojím mezi <span>Vámi</span> a dodavatelem, abyste dostali to, co skutečně <span>chcete</span>
