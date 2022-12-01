@@ -1,8 +1,8 @@
 ---
-subTitle: "REBRAND" 
-title: "SEAMLESS WATCH"
-img: "/assets/images/projects/project-thumb-three.jpg"
-linkText: "view project"
+subTitle: "VAŠE FIRMA V KAŽDÉ KAPSE" 
+title: "MOBILNÍ APLIKACE"
+img: "/assets/images/projects/mobile.png"
+linkText: "zobrazit detaily"
 featureImg1: "/assets/images/projects/project-details-image-one.jpg"
 featureImg2: "/assets/images/projects/project-details-image-two.jpg"
 ---

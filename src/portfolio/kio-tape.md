@@ -1,10 +1,10 @@
 ---
-subTitle: "PRODUCT LABEL" 
-title: "KIO TAPE"
-img: "/assets/images/projects/project-thumb-four.jpg"
-linkText: "view project"
-featureImg1: "/assets/images/projects/project-details-image-one.jpg"
-featureImg2: "/assets/images/projects/project-details-image-two.jpg"
+subTitle: "VÁŠ OBRAZ V ONLINE SVĚTĚ" 
+title: "WEBOVÉ STRÁNKY"
+img: "/assets/images/projects/website.png"
+linkText: "zobrazit detaily"
+#featureImg1: "/assets/images/projects/project-details-image-one.jpg"
+#featureImg2: "/assets/images/projects/project-details-image-two.jpg"
 ---
 The “Osen Clock” watch has all the features that users expect in a digital watch, and some unusual features.
 

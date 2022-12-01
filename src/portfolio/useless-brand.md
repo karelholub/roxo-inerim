@@ -1,8 +1,8 @@
 ---
-subTitle: "UX UI" 
-title: "USE-LESS BRAND"
-img: "/assets/images/projects/project-thumb-one.jpg"
-linkText: "view project"
+subTitle: "ABY VÁS DODAVATEL NEVODIL ZA NOS" 
+title: "ANALÝZA A ŘEŠENÍ"
+img: "/assets/images/projects/analysis.png"
+linkText: "zobrazit detaily"
 featureImg1: "/assets/images/projects/project-details-image-one.jpg"
 featureImg2: "/assets/images/projects/project-details-image-two.jpg"
 ---

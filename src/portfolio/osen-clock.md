@@ -1,8 +1,8 @@
 ---
-subTitle: "PRODUCT DESIGN" 
-title: "OSEN CLOCK"
-img: "/assets/images/projects/project-thumb-two.jpg"
-linkText: "view project"
+subTitle: "SLOVA KTERÁ PRODÁVAJÍ" 
+title: "KLIENTSKÁ KOMUNIKACE"
+img: "/assets/images/projects/connections.png"
+linkText: "zobrazit detaily"
 featureImg1: "/assets/images/projects/project-details-image-one.jpg"
 featureImg2: "/assets/images/projects/project-details-image-two.jpg"
 ---

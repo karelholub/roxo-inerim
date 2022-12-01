@@ -3,22 +3,22 @@
   "des": "a já rozumím tomu, co chtějí.",
   "opinion":[
     {
-      "name": "Simonns Hodge",
-      "dig": "CEO, Credito",
-      "img": "/assets/images/testimonial/user-thumb-one.jpg",
-      "comment": "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies."
+      "name": "M&M Reality",
+      "dig": "realitní informační systém",
+      "img": "/assets/images/testimonial/mmlogo.png",
+      "comment": "Podílel jsem se na tvorbě komplexního informačního systému pro největší realitní společnost v zemi. Byl jsem odpovědný za sběr a rozvoj požadavků od uživatelů a business vlastníků a jejich převod na vývojářskou specifikaci. Společně s designery a UX jsem se podílel na návrhu rozhraní a uživatelských postupů. Navrhoval jsem testovácí scénáře, automatické testy a samozřejmě i akceptační kriteria."
     },
     {
-      "name": "Rekon Montino",
-      "dig": "CDO, Bulmuci",
-      "img": "/assets/images/testimonial/user-thumb-two.jpg",
-      "comment": "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element."
+      "name": "Uniqa",
+      "dig": "funkční design dokumentů",
+      "img": "/assets/images/testimonial/uqaLogo.jpeg",
+      "comment": "Pro společnost Uniqa jsem pracoval na projektu funkčního designu dokumentů pro klientskou komunikaci. Jednalo se o iniciativu pro zlepšení zákaznické zkušenosti a konverzního poměru širokého spektra dokumentů. Podílel jsem se na realizaci workshopů, sběru požadavků, iterativního design procesu a následných úprav, testování a akceptace nového designu dokumentů. Projekt byl úspěšný a to napříč různorodými skupinami stakeholders. "
     },
     {
-      "name": "Ryan Hillary",
-      "dig": "MD, Udilamo",
-      "img": "/assets/images/testimonial/user-thumb-three.jpg",
-      "comment": "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush."
+      "name": "Lesy ČR",
+      "dig": "lesnický informační systém",
+      "img": "/assets/images/testimonial/lcr-logo-ctverec.png",
+      "comment": "Vedl jsem insterní team odpovědný za kompletní analýzu a návrh nového informačního systému pro řízení chodu firmy. Systém měl využívat detailní mapové podklady z GiS systémů a měl postupně připojovat řízení všech agend společnosti. Součástí projektu byl sběr požadavků, uživatelský výzkum, analýza a design a v neposlední řadě návrh řešení a tvorba zadání pro externí dodavatele."
     }
   ]
 }
