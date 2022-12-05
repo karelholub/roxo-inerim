@@ -1,7 +1,7 @@
 ---
 layout: "layouts/blog.njk"
 title: "Blog"
-des: "By fusing strategy & design we help our partners build their brands, drive business, & stand out from the noise in saturated markets! Follow our blog for the latest case studies and projects."
+des: "Spojením strategie a designu pomáháme našim partnerům budovat jejich značky, řídit obchod a vyniknout na přesycených trzích! Sledujte náš blog, kde najdete nejnovější případové studie a projekty."
 pagination:
   data: collections.blogpost
   size: 3
