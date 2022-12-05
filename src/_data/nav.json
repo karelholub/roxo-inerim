@@ -1,6 +1,6 @@
 {
   "navLogo":"/assets/images/analysis-icon.png",
-  "navLinks":["home","about","portfolio"],
+  "navLinks":["home","about","blog"],
   "navBtnLink":"contact",
   "navBtnText":"OZVĚTE SE"
 }

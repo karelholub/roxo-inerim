@@ -6,7 +6,7 @@
         <div class="row justify-content-center">
           <div class="col-lg-8">
             <article class="site-blog-details">
-              <p><span>{{postDate}}</span> by <span>{{author}}</span></p>
+              <p><span>{{postDate}}</span> od <span>{{author}}</span></p>
               <h2 class="blog-title">{{title}}</h2>
               <img class="feature-image" src="{{featureImg}}" alt="blog-details-image">
               {{content | safe}}
@@ -20,7 +20,7 @@
                 <img class="rev" src="/assets/images/to-top.svg" alt="next project">
                 <span class="link-area">
                   <span data-text="{{previousPost.data.title}}">
-                    Previous Project
+                    Předchozí článek
                   </span>
                 </span>
               </a>
@@ -29,7 +29,7 @@
               <a href="{{nextPost.url}}">
                 <span class="link-area">
                   <span data-text="{{nextPost.data.title}}">
-                    Next Project
+                    Další článek
                   </span>
                 </span>
                 <img src="/assets/images/to-top.svg" alt="next project">

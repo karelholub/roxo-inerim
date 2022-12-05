@@ -2,10 +2,10 @@
 title: "Business analýza je základní stavební kámen úspěšných webů"
 des: "The “timeless and enduring hue” is a reaction to the fast-moving society and also the company’s first “multi-sensory colour of the year”..."
 postDate: "15-Nov-2022"
-img: "/assets/images/blog/blog-post-03.jpg"
+img: "/assets/images/blog/webdesignCover.png"
 btnText: "přečíst celé"
 author: "Karel Holub"
-featureImg: "/assets/images/blog/blog-details-image.jpg"
+featureImg: "/assets/images/blog/webdesign.png"
 ---
 ### Bez analýz a plánů nelze postavit kvalitní web
 

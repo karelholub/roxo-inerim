@@ -20,9 +20,9 @@
         <div class="row">
           {% for blogpost in posts %}
           <div class="col-lg-6">
-            <article class="site-blog-post">
+            <article class="site-blog-post" style="height: 640px">
               <div class="site-blog-post-thumb">
-                <img src="{{blogpost.data.img}}" alt="post-thumb">
+                <img src="{{blogpost.data.img}}" style="width: 100%; height: auto; my-auto" alt="post-thumb">
               </div>
               <div class="site-blog-post-content">
                 <span>{{blogpost.data.postDate}}</span>
@@ -40,7 +40,7 @@
               <nav>
                 <ul class="pagination">
                   {% if pagination.href.previous %}
-                    <li class="page-item"><a class="page-link" href="{{pagination.href.previous}}">Previous</a></li>
+                    <li class="page-item"><a class="page-link" href="{{pagination.href.previous}}">Předchozí</a></li>
                   {% endif %}
                   {% for pageEntry in pagination.hrefs %}
                     <li {% if page.url == pageEntry %}
@@ -52,7 +52,7 @@
                     </li>
                   {% endfor %}
                   {% if pagination.href.next %}
-                    <li class="page-item"><a class="page-link" href="{{pagination.href.next}}">Next</a></li>                        
+                    <li class="page-item"><a class="page-link" href="{{pagination.href.next}}">Další</a></li>                        
                   {% endif %}
                 </ul>
               </nav>
