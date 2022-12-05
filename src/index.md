@@ -14,7 +14,7 @@ hero:
 
 portfolio:
   subTitle: "ZADÁNÍ, ŘEŠENÍ, VÝSLEDKY"
-  title: "Pro koho jsem pracoval"
+  title: "S čím můžu poomoct"
   seeAllbtn:
     link: "portfolio"
     text: "další práce"
