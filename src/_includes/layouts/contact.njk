@@ -13,45 +13,42 @@
           <div class="col-lg-6 ml-auto">
             <div class="site-contact-form">
               <h4>{{formTitle}}</h4>
-              <form method="POST" action="https://fabform.io/f/ulB_j_f">
-                <div class="row">
-                  <div class="col-lg-6">
-                    <input type="text" class="form-control" name="first-name" id="first-name" placeholder="Jméno">
-                  </div>
-                  <div class="col-lg-6">
-                    <input type="text" class="form-control" name="last-name" id="last-name" placeholder="Příjmení">
-                  </div>
-                  <div class="col-lg-6">
-                    <input type="email" class="form-control" name="email" id="email" placeholder="Email">
-                  </div>
-                  <div class="col-lg-6">
-                    <div class="select-wrapper">
-                      <select class="form-control" id="projectType">
-                        <option value="" selected disabled hidden>Typ projektu</option>
-                        <option value="ws">Webové stránky</option>
-                        <option value="ma">Mobilní aplikace</option>
-                        <option value="kk">Klientská komunikace</option>
-                        <option value="as">Analýza a řešení</option>
-                      </select>
+                <form name="contact" method="POST" data-netlify="true">
+                  <div class="row">
+                    <div class="col-lg-6">
+                      <input type="text" class="form-control" name="first-name" id="first-name" placeholder="Jméno">
+                    </div>
+                    <div class="col-lg-6">
+                      <input type="text" class="form-control" name="last-name" id="last-name" placeholder="Příjmení">
+                    </div>
+                    <div class="col-lg-6">
+                      <input type="email" class="form-control" name="email" id="email" placeholder="Email">
+                    </div>
+                    <div class="col-lg-6">
+                      <div class="select-wrapper">
+                        <select class="form-control" id="projectType">
+                          <option value="" selected disabled hidden>Typ projektu</option>
+                          <option value="ws">Webové stránky</option>
+                          <option value="ma">Mobilní aplikace</option>
+                          <option value="kk">Klientská komunikace</option>
+                          <option value="as">Analýza a řešení</option>
+                        </select>
+                      </div>
+                    </div>
+                    <div class="col-12">
+                      <textarea class="form-control" id="aboutProject" rows="6" placeholder="O projektu"></textarea>
+                    </div>
+                    <div class="col-12">
+                      <button type="submit" class="btn btn-primary" formtarget="_blank">
+                        <span class="btn-area">
+                          <span data-text="{{btnText}}">
+                            {{btnText}}
+                          </span>
+                        </span>
+                      </button>
                     </div>
                   </div>
-                  <div class="col-12">
-                    <textarea class="form-control" id="aboutProject" rows="6" placeholder="O projektu"></textarea>
-                  </div>
-                  <div class="col-12">
-                    <button type="submit" class="btn btn-primary" formtarget="_blank">
-                      <span class="btn-area">
-                        <span data-text="{{btnText}}">
-                          {{btnText}}
-                        </span>
-                      </span>
-                    </button>
-                  </div>
-                </div>
-              </form>
-              <p class="contact-form-generator mt-3">
-                <strong>** </strong><a href="https://fabform.io/" target="_blank">generovaný formulář</a>
-              </p>
+                </form>
             </div>
           </div>
         </div>
