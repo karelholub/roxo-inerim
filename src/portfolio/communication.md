@@ -3,8 +3,8 @@ subTitle: "SLOVA KTERÁ PRODÁVAJÍ"
 title: "KLIENTSKÁ KOMUNIKACE"
 img: "/assets/images/projects/connections.png"
 linkText: "zobrazit detaily"
-featureImg1: "/assets/images/projects/project-details-image-one.jpg"
-featureImg2: "/assets/images/projects/project-details-image-two.jpg"
+featureImg1: "/assets/images/projects/comm1.jpg"
+featureImg2: "/assets/images/projects/comm2.jpg"
 ---
 Kvalitní komunikace s klienty je zásadní pro udržení silné a pozitivní image značky, stejně jako pro budování a udržování vztahů se zákazníky. V dnešním digitálním světě, kde mají zákazníci širokou škálu možností, jak si vybrat, s kým budou obchodovat, může být jasná a efektivní komunikace klíčovým rozlišovacím prvkem vaší značky.
 

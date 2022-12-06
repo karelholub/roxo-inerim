@@ -3,8 +3,8 @@ subTitle: "VÁŠ OBRAZ V ONLINE SVĚTĚ"
 title: "WEBOVÉ STRÁNKY"
 img: "/assets/images/projects/website.png"
 linkText: "zobrazit detaily"
-#featureImg1: "/assets/images/projects/project-details-image-one.jpg"
-#featureImg2: "/assets/images/projects/project-details-image-two.jpg"
+featureImg1: "/assets/images/projects/webBot1.jpg"
+featureImg2: "/assets/images/projects/webBot3.jpg"
 ---
 V digitálním světě jsou vysoce kvalitní webové stránky klíčové pro udržení silné a pozitivní image značky. Tyto stránky slouží jako tvář vaší firmy a často jsou prvním kontaktem potenciálních zákazníků s vaší značkou, proto je důležité, aby působily dobrým dojmem.
 

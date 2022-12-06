@@ -3,8 +3,8 @@ subTitle: "VAŠE FIRMA V KAŽDÉ KAPSE"
 title: "MOBILNÍ APLIKACE"
 img: "/assets/images/projects/mobile.png"
 linkText: "zobrazit detaily"
-featureImg1: "/assets/images/projects/project-details-image-one.jpg"
-featureImg2: "/assets/images/projects/project-details-image-two.jpg"
+featureImg1: "/assets/images/projects/mobileApps1.jpg"
+featureImg2: "/assets/images/projects/mobileApps2.jpg"
 ---
 V dnešním digitálním světě je pro úspěšné projekty elektronického obchodování zásadní mít mobilní aplikaci. Vzhledem k tomu, že stále více lidí přistupuje k internetu ze svých chytrých telefonů a tabletů, může mobilní aplikace zákazníkům poskytnout pohodlný a uživatelsky přívětivý způsob prohlížení a nakupování na vašich stránkách a může pomoci zvýšit angažovanost a konverze.
 

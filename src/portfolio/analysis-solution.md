@@ -3,8 +3,8 @@ subTitle: "ABY VÁS DODAVATEL NEVODIL ZA NOS"
 title: "ANALÝZA A ŘEŠENÍ"
 img: "/assets/images/projects/analysis.png"
 linkText: "zobrazit detaily"
-featureImg1: "/assets/images/projects/project-details-image-one.jpg"
-featureImg2: "/assets/images/projects/project-details-image-two.jpg"
+featureImg1: "/assets/images/projects/analysis1.jpg"
+featureImg2: "/assets/images/projects/analysis2.jpg"
 ---
 Pro úspěšné projekty elektronického obchodování a udržení pevných vztahů s dodavateli je zásadní kvalitní analýza a řízení projektů. Tyto procesy pomáhají zajistit, aby vaše projekty probíhaly podle plánu, aby byly splněny vaše cíle a úkoly a aby vaši dodavatelé dodávali produkty a služby, které potřebujete.
 
