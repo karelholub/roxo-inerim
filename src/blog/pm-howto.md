@@ -1,7 +1,7 @@
 ---
-title: "Jak být dobrým produktovým manažerem"
+title: "Maximalizace spokojenosti zákazníků: Tipy a triky pro úspěšné řízení produktů"
 des: "Produktový manažer je odpovědný za to, že zákazníci budou produkt milovat a firmy na něm vydělají."
-postDate: "26-Nov-2022"
+postDate: "26-Oct-2022"
 img: "/assets/images/blog/pmCover.jpg"
 btnText: "přečíst celé"
 author: "Karel Holub"
