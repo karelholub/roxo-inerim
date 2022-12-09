@@ -5,6 +5,7 @@ hero:
   title:
     firstPara: "ABYSTE DOSTALI "
     secondPara: "CO SKUTEČNĚ CHCETE"
+  subTitle2: "Jsem interim product manager a pomůžu vám sestavit požadavky a specifikaci tak, abyste od dodavatele dostali přesně to, co chcete. Společně stanovíme cíle a vydáme se na cestu, na jejímž konci budou konkrétní výsledky, zisk a spokojení zákazníci."
   seeWorkBtn:
     text: "Jak pracuji"
     link: "#project"
@@ -14,8 +15,5 @@ hero:
 
 portfolio:
   subTitle: "ZADÁNÍ, ŘEŠENÍ, VÝSLEDKY"
-  title: "S čím můžu poomoct"
-  seeAllbtn:
-    link: "portfolio"
-    text: "další práce"
+  title: "Umím toho hodně a zaměřuji se hlavně na e-commerce a on-line služby, klientskou komunikaci a informační systémy."
 ---
